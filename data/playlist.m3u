@@ -1,0 +1,132 @@
+# Test Contest
+#
+# ROUND 1, GROUP 1
+# Task "F" - 3 best flights, 3:00 max, 6 launches only, 10:00 window
+#
+round_1.mp3
+heat.mp3
+A.mp3
+# pilot1.mp3
+# pilot2.mp3
+# pilot3.mp3
+# pilot4.mp3
+# pilot5.mp3
+task.mp3
+F.mp3
+10_minute_window.mp3
+#description_task_F_3_of_6.mp3
+#3_min_0_sec_prep.mp3
+3_min_allup.mp3
+30_sec_landing.mp3
+#
+# ROUND 1, GROUP 2
+# Task "F" - 3 best flights, 3:00 max, 6 launches only, 10:00 window
+#
+round_1.mp3
+heat.mp3
+B.mp3
+# pilot6.mp3
+# pilot7.mp3
+# pilot8.mp3
+# pilot9.mp3
+# pilot10.mp3
+task.mp3
+F.mp3
+10_minute_window.mp3
+description_task_F_3_of_6.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 2, GROUP 1
+# Task "H" - 4 best flights, 1:00, 2:00, 3:00, 4:00 max in any order, 10:00 window
+#
+round_2.mp3
+heat.mp3
+A.mp3
+task.mp3
+H.mp3
+10_minute_window.mp3
+description_task_H_1_2_3_4.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 2, GROUP 2
+# Task "H" - 4 best flights, 1:00, 2:00, 3:00, 4:00 max in any order, 10:00 window
+#
+round_2.mp3
+heat.mp3
+B.mp3
+task.mp3
+H.mp3
+10_minute_window.mp3
+description_task_H_1_2_3_4.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 3, GROUP 1
+# Task "C" - All up, 3 flights, 3:00 max
+#
+round_3.mp3
+heat.mp3
+A.mp3
+task.mp3
+C.mp3
+description_task_C_all_up_3_flights.mp3
+3_min_0_sec_prep.mp3
+3_min_working_all_up.mp3
+30_sec_landing.mp3
+3_min_0_sec_prep.mp3
+3_min_working_all_up.mp3
+30_sec_landing.mp3
+3_min_0_sec_prep.mp3
+3_min_working_all_up.mp3
+30_sec_landing.mp3
+#
+# ROUND 3, GROUP 2
+# Task "C" - All up, 3 flights, 3:00 max
+#
+round_3.mp3
+heat.mp3
+B.mp3
+task.mp3
+C.mp3
+description_task_C_all_up_3_flights.mp3
+3_min_0_sec_prep.mp3
+3_min_working_all_up.mp3
+30_sec_landing.mp3
+3_min_0_sec_prep.mp33_min_working_all_up.mp3
+30_sec_landing.mp3
+3_min_0_sec_prep.mp3
+3_min_working_all_up.mp3
+30_sec_landing.mp3
+#
+# ROUND 4, GROUP 1
+# Task "B" - Last two flights, 4:00 max, 10:00 window
+#
+round_4.mp3
+heat.mp3
+A.mp3
+task.mp3
+B.mp3
+10_minute_window.mp3
+description_task_B_last_two_4min.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 4, GROUP 2
+# Task "B" - Last two flights, 4:00 max, 10:00 window
+#
+round_4.mp3
+heat.mp3
+B.mp3
+task.mp3
+B.mp3
+10_minute_window.mp3
+description_task_B_last_two_4min.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
