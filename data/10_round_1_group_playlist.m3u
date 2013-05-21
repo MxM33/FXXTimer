@@ -1,0 +1,121 @@
+# 10 туров 1 группа
+#
+# 1  Last flight, 5:00 max, 7:00 window
+# 2  All up, 3 flights, 3:00 max
+# 3  Last 2 flights, 4:00 max, 10:00 window
+# 4  Increasing times - 0:30, 0:45, 1:00, 1:15, 1:30, 1:45, 2:00, 10:00 window
+# 5  Best 5 flights, 2:00 max, 10:00 window
+# 6  Best 3 flights, 3:00 max, 6 launches only, 10:00 window
+# 7  Best 4 flights, 1:00, 2:00, 3:00, 4:00 max in any order, 10:00 window
+# 8  Poker, 5 self nominated targets, 10:00 window
+# 9  Best 3 flights, 200s (3:20) max, 10:00 window
+# 10 Last 3 flights, 3:00 max, 10:00 window
+#
+# ROUND 1, GROUP 1
+# Last flight, 5:00 max, 7:00 window
+#
+round_1.mp3
+heat_A.mp3
+description_task_A_last_flight_10min_window.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 2, GROUP 1
+# All up, 3 flights, 3:00 max
+#
+round_2.mp3
+heat_A.mp3
+description_task_C_all_up_3_flights.mp3
+3_min_0_sec_prep.mp3
+0_min_3_sec_prep.mp3
+3_min_working.mp3
+30_sec_landing.mp3
+1_min_0_sec_prep.mp3
+0_min_3_sec_prep.mp3
+3_min_working.mp3
+30_sec_landing.mp3
+1_min_0_sec_prep.mp3
+0_min_3_sec_prep.mp3
+3_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 3, GROUP 1
+# Last 2 flights, 4:00 max, 10:00 window
+#
+round_3.mp3
+heat_A.mp3
+description_task_B_last_two_4min.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 4, GROUP 1
+# Increasing times - 0:30, 0:45, 1:00, 1:15, 1:30, 1:45, 2:00, 10:00 window
+#
+round_4.mp3
+heat_A.mp3
+description_task_D_ladder.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 5, GROUP 1
+# Best 5 flights, 2:00 max, 10:00 window
+#
+round_5.mp3
+heat_A.mp3
+description_task_G_5x2.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 6, GROUP 1
+# Best 3 flights, 3:00 max, 6 launches only, 10:00 window
+#
+round_6.mp3
+heat_A.mp3
+description_task_F_3_of_6.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 7, GROUP 1
+# Best 4 flights, 1:00, 2:00, 3:00, 4:00 max in any order, 10:00 window
+#
+round_7.mp3
+heat_A.mp3
+description_task_H_1_2_3_4.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 8, GROUP 1
+# Poker, 5 self nominated targets, 10:00 window
+#
+round_8.mp3
+heat_A.mp3
+description_task_E_poker.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 9, GROUP 1
+# Best 3 flights, 200s (3:20) max, 10:00 window
+#
+round_9.mp3
+heat_A.mp3
+description_task_I_3x200s.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
+#
+# ROUND 10, GROUP 1
+# Last 3 flights, 3:00 max, 10:00 window
+#
+round_10.mp3
+heat_A.mp3
+description_task_J_last_three_3min.mp3
+3_min_0_sec_prep.mp3
+10_min_working.mp3
+30_sec_landing.mp3
